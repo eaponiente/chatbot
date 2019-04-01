@@ -4,9 +4,7 @@ This document describes how to set up a sample Express app which talks to Slack,
 
 ## Install all dependencies:
 
-    ```
     npm install
-    ```
 
 ## Getting credentials
 
